@@ -1,15 +1,11 @@
-# ZYROCORP V3 — Self-Contained Light Test
+# ZYROCORP V3.1 — Self-Contained Website
 
-This version embeds the supplied ZYROCORP logo and all visual illustrations directly in index.html.
-No assets folder is required, preventing broken-image problems when only the three website files are uploaded to GitHub.
+Bright U.S.-centric corporate website test based on the supplied visual reference.
 
-Files:
-- index.html
-- styles.css
-- script.js
-
-Cloudflare Pages:
-Framework: None
-Build command: blank
-Build output directory: blank
-Production branch: main
+- Inline SVG ZYROCORP brand mark
+- Inline hero/team visual
+- No external image dependencies
+- Email: hello@zyrocorp.com
+- Office: 1201 Market Street, Suite 600, Wilmington, DE 19801, USA
+- Phone shown in the design: +1 (888) 555-0199
+- Cloudflare Pages: Framework None; build command blank; output directory blank; branch main
