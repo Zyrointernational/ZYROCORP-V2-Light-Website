@@ -1,11 +1,27 @@
-# ZYROCORP V3.1 — Self-Contained Website
+# ZYROCORP V3.1 — Revised Website Test
 
-Bright U.S.-centric corporate website test based on the supplied visual reference.
+This revision fixes the broken logo implementation by using a real local `logo.svg` asset rather than an inline placeholder.
 
-- Inline SVG ZYROCORP brand mark
-- Inline hero/team visual
-- No external image dependencies
-- Email: hello@zyrocorp.com
-- Office: 1201 Market Street, Suite 600, Wilmington, DE 19801, USA
-- Phone shown in the design: +1 (888) 555-0199
-- Cloudflare Pages: Framework None; build command blank; output directory blank; branch main
+Pages:
+- index.html
+- services.html
+- calldesk.html
+- industries.html
+- how-it-works.html
+- security.html
+- about.html
+- resources.html
+- contact.html
+
+Shared:
+- styles.css
+- script.js
+- logo.svg
+
+Contact:
+hello@zyrocorp.com
++1 (888) 555-0199
+1201 Market Street, Suite 600, Wilmington, DE 19801, USA
+U.S. Corporate Office — Virtual Operations
+
+The people photographs are representative stock imagery used for website testing and are not presented as actual ZYROCORP employees. The test uses free-to-use Unsplash imagery.

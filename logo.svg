@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 180">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#073fbd"/><stop offset=".55" stop-color="#078ff2"/><stop offset="1" stop-color="#1b66d9"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a93a4"/><stop offset=".55" stop-color="#37bd5b"/><stop offset="1" stop-color="#7bd52c"/></linearGradient>
+</defs>
+<path d="M43 22c0-10 8-18 18-18h116c13 0 19 16 9 25L91 90h57c9 0 14 10 8 18l-21 28H53c-17 0-24-21-11-32l94-75H61c-10 0-18-3-18-7z" fill="url(#b)"/>
+<path d="M90 90h61c9 0 14 11 8 18l-22 28H78c-13 0-19-16-10-26z" fill="url(#g)"/>
+<text x="210" y="92" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" fill="#0a376f">ZYRO</text>
+<text x="370" y="92" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" fill="#1678e8">CORP</text>
+<text x="213" y="125" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="4.4" fill="#526577">BUSINESS &amp; TECHNOLOGY SERVICES</text>
+</svg>
